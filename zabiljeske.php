@@ -41,6 +41,8 @@
                 <img alt="Arapski jezik" src="src/assets/A1.jpg">
                 <br>
                 <br>
+                <img alt="Arapski jezik 2" src="src/assets/A2.jpg">
+                <br><br><br>
                 <h3>BISMILA</h3>
                 <img alt="Arapski jezik" src="src/assets/bismila.jpg">
                 <br>
@@ -55,7 +57,7 @@
                 <br>
                 <br>
                 <br>
-                <h3>Za više dobrih tema posjetite <a style="color: blue" href="https://m.facebook.com/Sufara-i-ted%C5%BEvid-osnove-testna-verzija-1992735521023625/">Facebook</a> stranicu</h3>
+                <h3>Za više dobrih tema posjetite Facebook stranicu<a style="color: blue" href="https://m.facebook.com/Sufara-i-ted%C5%BEvid-osnove-testna-verzija-1992735521023625/">Sufara i tedžvid osnove testna verzija</a></h3>
             </div>
         </main>
         <script type="text/javascript" src="src/assets/js/activeToggler.js"></script>
