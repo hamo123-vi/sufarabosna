@@ -1,0 +1,85 @@
+body {
+    margin: 0;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 2rem 0;
+    align-items: center;
+    height: 3.5rem;
+    background-color: darkseagreen;
+    border-bottom: 1px solid yellowgreen;
+    border-radius: 0.25rem;
+    font-size: 2rem;
+    font-weight: 600;
+    font-family: 'Segoe UI';
+    color: rgb(153, 84, 84);
+}
+
+nav {
+    font-size: 1rem;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style-type: none;
+}
+
+li {
+    padding: 0 1rem 0;
+    cursor: pointer;
+}
+
+a, .link {
+    color: brown;
+    text-decoration: none;
+}
+
+a:hover {
+    color: tomato;
+}
+
+main {
+    padding-top: 1.75rem;
+}
+
+div {
+    text-align: center;
+    color: darkseagreen
+}
+
+h1 {
+    font-size: 42px;
+    font-weight: 600;
+    margin-right: 50px;
+    margin-left: 50px
+}
+
+h3 {
+    font-size: 26px;
+}
+
+img {
+    width: 100%;
+    height:auto;
+}
+
+.pojedinacne {
+    margin-bottom: 3rem;
+    border-bottom: 1px solid yellowgreen;
+}
+
+@media screen and (max-width: 480px) {
+    header {
+        font-size: 1.5rem;
+    }
+}
+
+@media screen and (max-width: 370px) {
+    header {
+        font-size: 1.25rem;
+    }
+}
