@@ -46,6 +46,11 @@
                 <br>
                 <br>
                 <br>
+                <h3>PISMO DOBRE NAMJERE</h3>
+                <img alt="Pismo dobre namjere" src="src/assets/pismodobrenamjere.jpg">
+                <br>
+                <br>
+                <br>
                 <h3>VIŠE DOBRIH TEMA</h3>
                 <br>
                 <br>
