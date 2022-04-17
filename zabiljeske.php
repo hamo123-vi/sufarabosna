@@ -57,7 +57,7 @@
                 <br>
                 <br>
                 <br>
-                <h3>Za više dobrih tema posjetite Facebook stranicu<a style="color: blue" href="https://m.facebook.com/Sufara-i-ted%C5%BEvid-osnove-testna-verzija-1992735521023625/">Sufara i tedžvid osnove testna verzija</a></h3>
+                <h3>Za više dobrih tema posjetite Facebook stranicu <a style="color: blue" href="https://m.facebook.com/Sufara-i-ted%C5%BEvid-osnove-testna-verzija-1992735521023625/"> Sufara i tedžvid osnove testna verzija</a></h3>
             </div>
         </main>
         <script type="text/javascript" src="src/assets/js/activeToggler.js"></script>
