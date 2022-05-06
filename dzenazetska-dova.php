@@ -8,7 +8,7 @@
         <?php require_once("src/templates/header.php") ?>
         <main>
             <div style="text-align: center">
-                <h1>DŽENAZETSKA DOVA</h1>
+                <h3>DŽENAZETSKA DOVA</h3>
                 <img alt="Dženazetska dova" src="src/assets/dzenazetskadova.jpg">
             </div>
         </main>
