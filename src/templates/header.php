@@ -17,5 +17,5 @@
     </nav>
 </header>
 <div class="social-container">
-    <a href="https://m.facebook.com/Sufara-i-ted%C5%BEvid-osnove-testna-verzija-1992735521023625/"><i style="width: 100%; height: auto" class="fa-brands fa-facebook"></i></a>
+    <a href="https://m.facebook.com/Sufara-i-ted%C5%BEvid-osnove-testna-verzija-1992735521023625/"><i style="width: 50px; height: auto" class="fa-brands fa-facebook"></i></a>
 </div>
