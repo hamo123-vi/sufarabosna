@@ -1,3 +1,7 @@
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
 <header>
     <div>
         <a href="index.php">SUFARA I TEDŽVID OSNOVE</a>
@@ -12,3 +16,6 @@
         </ul>
     </nav>
 </header>
+<div class="social-container">
+    <a href="https://m.facebook.com/Sufara-i-ted%C5%BEvid-osnove-testna-verzija-1992735521023625/"><i style="width: 100%; height: auto" class="fas fa-facebook"></i></a>
+</div>

@@ -21,6 +21,14 @@ nav {
     font-size: 1rem;
 }
 
+.social-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+}
+
 ul {
     display: flex;
     align-items: center;
