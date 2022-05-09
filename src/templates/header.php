@@ -17,5 +17,5 @@
     </nav>
 </header>
 <div class="social-container">
-    <a href="https://m.facebook.com/Sufara-i-ted%C5%BEvid-osnove-testna-verzija-1992735521023625/"><i style="width: 50px; height: auto" class="fa-brands fa-facebook"></i></a>
+    Više informacija na:<a style="color: #4267B2" href="https://m.facebook.com/Sufara-i-ted%C5%BEvid-osnove-testna-verzija-1992735521023625/"><span>&nbsp;</span><i style="width: 150px; height: auto" class="fa-brands fa-facebook"></i></a>
 </div>
