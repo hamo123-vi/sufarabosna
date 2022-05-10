@@ -27,6 +27,7 @@
         <?php require_once("sidebar.php") ?>
     </nav>
 </header>
+<br><br>
 <div class="social-container">
     Više informacija na:<a style="color: #4267B2" href="https://m.facebook.com/Sufara-i-ted%C5%BEvid-osnove-testna-verzija-1992735521023625/"><span>&nbsp;</span><i style="width: 50px; height: auto" class="fa-brands fa-facebook"></i></a>
 </div>
