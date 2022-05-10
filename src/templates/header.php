@@ -24,7 +24,7 @@
             <div class="hamburger-piece"></div>
         </div>
 
-        <?php require_once("../sufara-tedzvid/src/templates/sidebar.php") ?>
+        <?php require_once("sidebar.php") ?>
     </nav>
 </header>
 <div class="social-container">
