@@ -122,11 +122,6 @@ img {
 
 @media screen and (max-width: 1180px) {
 
-
-    .sidebar {
-        display: none;
-    }
-
     header, nav {
         width: 100%;
     }
