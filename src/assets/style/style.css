@@ -81,21 +81,123 @@ img {
     border-bottom: 1px solid yellowgreen;
 }
 
-@media screen and (max-width: 1175px) {
+.hamburger-menu-container {
+    display: none;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 22px;
+    width: 45px !important;
+}
+
+.hamburger-piece {
+    background-color: brown;
+    width: 100%;
+    height: 4px !important;
+}
+
+.sidebar {
+        display: none;
+        justify-content: center;
+        align-items: flex-start;
+        justify-content: flex-start;
+        position: fixed;
+        top: 3.5rem;
+        right: 0;
+        width: 350px;
+        height: 100%;
+        background-color: brown;
+        color: darkseagreen;
+        padding-top: 50px;
+        border-radius: 0.25rem;
+        box-sizing: border-box;
+    }
+
+    .header-title-mobile {
+        display:none;
+    }
+    
+.active {
+    display: flex;
+}
+
+@media screen and (max-width: 1180px) {
     header, nav {
         width: 100%;
-        height: 10rem !important;
+    }
+
+    header {
+        justify-content: space-between;
+        box-sizing: border-box;
+        position: fixed;
+        top: 0;
+    }
+
+    nav {
+        width: 100px !important;
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    .header-title {
+        width: 500px;
+    }
+
+    .link {
+        color: darkseagreen;
+        text-decoration: none;
+        font-size: 18px;
+    }
+
+    .mb {
+        margin-bottom: 20px;
+    }
+
+    .desktop-menu {
+        display: none;
+    }
+
+    .mobile-menu {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .hamburger-menu-container {
+        display: flex;
+        justify-self: flex-end;
+        cursor: pointer;
+    }
+
+
+}
+
+@media screen and (max-width: 575px) {
+
+    header {
+        padding-left: 0;
+    }
+
+    .header-title {
+        display: none;
+    }
+
+    .header-title-mobile {
+        display: block;
+        width: 250px !important;
+        height: 3.5rem;
+        background-size: 100% 100%;
+        box-sizing: border-box;
     }
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 340px) {
     header {
-        font-size: 1.5rem;
+        padding-right: 15px;
     }
 }
 
-@media screen and (max-width: 370px) {
+@media screen and (max-width: 285px) {
     header {
-        font-size: 1.25rem;
+        padding-right: 0px;
     }
 }
