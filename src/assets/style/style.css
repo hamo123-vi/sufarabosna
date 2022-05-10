@@ -190,6 +190,16 @@ img {
     }
 }
 
+@media screen and (max-width: 370px) {
+    .sidebar {
+        width: 100%;
+    }
+
+    .mobile-menu {
+        padding: 0 0 0 20px;
+    }
+}
+
 @media screen and (max-width: 340px) {
     header {
         padding-right: 15px;
