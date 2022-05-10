@@ -115,15 +115,15 @@ img {
     .header-title-mobile {
         display:none;
     }
-    
-.active {
-    display: flex;
-}
 
 @media screen and (max-width: 1180px) {
 
     header, nav {
         width: 100%;
+    }
+
+    .active {
+        display: flex;
     }
 
     header {
