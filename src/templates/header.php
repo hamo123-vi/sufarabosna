@@ -7,7 +7,7 @@
         <a href="index.php">SUFARA I TEDŽVID OSNOVE</a>
     </div>
     <div class="header-title-mobile">
-        <p style="color: brown; margin:0; height: 3.5rem" dir="rtl" lang="ar" style="color:#e0e0e0;font-size:20px;">رَبٍّ زِدْنٍي عِلمًا</p>
+        <p style="color: brown; margin:0; height: 3.5rem; cursor: pointer;" onclick="goHome()" dir="rtl" lang="ar" style="color:#e0e0e0;font-size:20px;">رَبٍّ زِدْنٍي عِلمًا</p>
     </div>
     <nav>
         <ul class="desktop-menu">
