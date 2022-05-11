@@ -1,7 +1,7 @@
 <head>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
-
+<div style="height:56px;">
 <header>
     <div class="header-title">
         <a href="index.php">SUFARA I TEDŽVID OSNOVE</a>
@@ -27,8 +27,8 @@
         <?php require_once("sidebar.php") ?>
     </nav>
 </header>
-<br><br>
-<div class="social-container">
+</div><br>
+<div class="social-container" onclick="goToFbPage()">
     Više informacija na:<a style="color: #4267B2" href="https://m.facebook.com/Sufara-i-ted%C5%BEvid-osnove-testna-verzija-1992735521023625/"><span>&nbsp;</span><i style="width: 50px; height: auto" class="fa-brands fa-facebook"></i></a>
 </div>
 <script type="text/javascript" src="https://sufara-tedzvid.herokuapp.com/src/assets/js/custom.js"></script>

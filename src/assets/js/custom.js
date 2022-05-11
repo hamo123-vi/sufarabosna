@@ -3,7 +3,6 @@ function showSidebar() {
     sidebar.classList.toggle("active");
 }
 
-function hideSidebar() {
-    var sidebar = document.getElementById("sidebar");
-    sidebar.style.display = "none";
+function goToFbPage() {
+    winidow.location = "https://m.facebook.com/Sufara-i-ted%C5%BEvid-osnove-testna-verzija-1992735521023625/";
 }
