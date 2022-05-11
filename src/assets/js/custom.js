@@ -4,5 +4,5 @@ function showSidebar() {
 }
 
 function goToFbPage() {
-    winidow.location = "https://m.facebook.com/Sufara-i-ted%C5%BEvid-osnove-testna-verzija-1992735521023625/";
+    window.location.href = "https://m.facebook.com/Sufara-i-ted%C5%BEvid-osnove-testna-verzija-1992735521023625/";
 }

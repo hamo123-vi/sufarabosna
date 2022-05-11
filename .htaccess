@@ -1,0 +1,6 @@
+RewriteEngine On
+
+RewriteRule ^zbirna-tabela index.php
+RewriteRule ^pojedinacne-tabele pojedinacno.php
+RewriteRule ^zabiljeske zabiljeske.php
+RewriteRule ^dzenazetska-dova dzenazetska-dova.php
