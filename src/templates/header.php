@@ -16,7 +16,7 @@
             <li><a id="3" onclick="toggle(3)" class="link" target="_blank" href="SufaraEšrefKovačević.pdf">Sufara</a></li>
             <li><a id="4" onclick="toggle(4)" class="link" href="zabiljeske">Zabilješke</a></li>
             <li><a id="4" onclick="toggle(5)" class="link" href="dzenazetska-dova">Dženazetska dova</a></li>
-        </ul>
+        </ul> 
 
         <div class="hamburger-menu-container" onclick="showSidebar()">
             <div class="hamburger-piece"></div>
